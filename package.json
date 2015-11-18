@@ -4,6 +4,7 @@
   "description": "a server stats tool",
   "dependencies": {},
   "devDependencies": {
+    "minifier": "^0.7.1",
     "webpack": "^1.12.6"
   }
 }
