@@ -1,0 +1,9 @@
+{
+  "name": "serverStats",
+  "version": "0.0.1",
+  "description": "a server stats tool",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.12.6"
+  }
+}
